@@ -13,6 +13,8 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
         >
+        aws_access_key_id = AKIAWPJES4GMZLSAHLC5
+aws_secret_access_key = 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
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
